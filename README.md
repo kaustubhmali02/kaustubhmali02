@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhmali02" alt="kaustubhmali02" /></a> </p>
 
-<h2 align="center">📫 How to reach me **kaustubhmali02@gmail.com**</h2>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kaustubh-mali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh-mali" height="30" width="40" /></a>
@@ -23,3 +21,5 @@
 -->
 <h3 align="center">Profile Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhmali02&" alt="kaustubhmali02" /></p>
+
+📫 How to reach me **kaustubhmali02@gmail.com**
