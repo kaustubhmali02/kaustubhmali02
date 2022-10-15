@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaustubh Mali</h1>
+<h1 align="center">Hi👋, I'm Kaustubh Mali</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer looking for new opportunities</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaustubhmali02&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhmali02" /> </p>
