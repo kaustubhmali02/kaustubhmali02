@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhmali02" alt="kaustubhmali02" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaustubhmali02&theme=onedark)](https://github.com/kaustubhmali02/github-profile-trophy)
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=kaustubhmali02&theme=onedark)](https://github.com/kaustubhmali02/github-profile-trophy)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
