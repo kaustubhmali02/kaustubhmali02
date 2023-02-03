@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhmali02" alt="kaustubhmali02" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaustubhmali02&theme=onedark)](https://github.com/kaustubhmali02/github-profile-trophy)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kaustubh-mali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh-mali" height="30" width="40" /></a>
